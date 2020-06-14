@@ -318,6 +318,10 @@ footer {
   margin-top: 20px;
 }
 
+.footer-links .inst:hover {
+  background-color:#2196F3;
+}
+
 .footer-links .inst {
   display: block;
   width: 44px;
@@ -352,6 +356,11 @@ footer {
 
   padding-top: 12px;
 }
+.footer-links .twit:hover {
+  background-color:#2196F3;
+}
+
+
 .icon-twitter {
   width: 20px;
   height: 16px;
@@ -372,6 +381,9 @@ footer {
 
   padding-top: 12px;
 }
+.footer-links .faceb:hover {
+  background-color:#2196F3;
+}
 .icon-facebook {
   width: 20px;
   height: 16px;
@@ -388,6 +400,9 @@ footer {
   text-align: center;
 
   padding-top: 12px;
+}
+.footer-links .kedin:hover {
+  background-color:#2196F3;
 }
 .icon-linkedin {
   width: 20px;
